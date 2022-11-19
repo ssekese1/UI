@@ -1,0 +1,124 @@
+.All {
+  width: 18px;
+  height: 18px;
+  margin: 50px 10px 0 17px;
+  font-family: MarkPro;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--dark-blue-grey);
+}
+.Completed {
+  width: 76px;
+  height: 18px;
+  margin: 50px 10px 0;
+  font-family: MarkPro;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4a77e5;
+}
+.Incompleted {
+  width: 85px;
+  height: 18px;
+  margin: 50px 109px 0 10px;
+  font-family: MarkPro;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #4a77e5;
+}
+.Todo-List {
+  width: 100px;
+  height: 28px;
+  margin: 25px 72.5px 35px 0.5px;
+  font-family: MarkPro;
+  font-size: 22px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--dark-blue-grey);
+}
+.Add-a-new-todo {
+  width: 123px;
+  height: 20px;
+  margin: 35px 50px 10px 0;
+  font-family: MarkPro;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--cool-grey);
+  border: none;
+  background-color: transparent;
+  resize: none;
+  outline: none;
+}
+.Make-a-todo-list {
+  /* width: 126px; */
+  height: 20px;
+  font-family: MarkPro;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: var(--dark-blue-grey);
+}
+.Rectangle {
+  width: 440px;
+  margin: 109px 376px 0 0;
+  padding: 35px 30px;
+  border-radius: 5px;
+  box-shadow: 0 2px 16px 0 rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+.rectangle {
+  width: 18px;
+  height: 18px;
+  margin: 27px 14px 15px 0;
+  border-radius: 4px;
+  border: solid 1px rgba(0, 0, 0, 0.25);
+  background-color: #fff;
+}
+
+img.Path-Copy {
+  width: 11px;
+  height: 11px;
+  margin: 31px 2px 18px 37px;
+  object-fit: contain;
+  background-color: #bfbfbf;
+}
+img.Group {
+  width: 40px;
+  height: 32px;
+  margin: 0 19px 25px 0;
+  object-fit: contain;
+}
+.Line-Copy {
+  width: 380px;
+  height: 1px;
+  margin: 10px 0 26px;
+  border: solid 1px;
+}
+.Todos---Web {
+  width: 1343px;
+  height: 803px;
+  padding: 14px 10px 225px 468px;
+  background-color: #f6f7f8;
+}
